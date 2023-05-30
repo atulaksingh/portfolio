@@ -9,7 +9,7 @@ function Skills() {
       <Card
         title="Technicals Skills"
         content={<SkillsContent />}
-        border={{ backgroundColor: "black", Width: "50px" }}
+        border={{ backgroundColor: "black" }}
       />
     </div>
   );

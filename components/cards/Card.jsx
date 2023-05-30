@@ -6,8 +6,8 @@ function Card(props) {
       <div className={props.bgcolor}>
         <div className="container m-auto">
           <div id="about">
-            <div className=" py-[205px] grid  lap:grid-cols-3 grid-cols-1 mx-10">
-              <div className="col-span-1 m-auto text-4xl  justify-between">
+            <div className=" py-[150px] grid  lap:grid-cols-3 grid-cols-1 mx-10">
+              <div className="col-span-1 m-auto text-4xl  justify-between ">
                 <h1 className="">{props.title}</h1>
               </div>
               <div className="col-span-2 lap:flex mb-4">

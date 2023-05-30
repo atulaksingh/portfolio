@@ -33,7 +33,7 @@ function About() {
       <Card
         title="About"
         content={<AboutContent />}
-        bgcolor="bg-black text-white"
+        bgcolor="bg-[rgb(36,36,36)] text-white"
         border={{ backgroundColor: "white" }}
       />
     </>

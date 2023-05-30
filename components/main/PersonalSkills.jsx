@@ -1,15 +1,16 @@
 import React from "react";
 import Card from "../cards/Card";
 import PersonalContent from "../cards/PersonalContent";
+import SkillsContent from "../cards/SkillsContent";
 
 function PersonalSkills() {
   return (
     <>
       <div>
         <Card
-          title="Technicals Skills"
+          title="Personal Skills"
           content={<PersonalContent />}
-          border={{ backgroundColor: "black", Width: "50px" }}
+          border={{ backgroundColor: "black" }}
         />
       </div>
     </>
