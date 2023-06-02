@@ -22,9 +22,9 @@ export default function Home() {
       {/* <PersonalSkills /> */}
 
       <PersonalSkills />
+      <Project />
       <Designation />
       <Education />
-      <Project />
       {/* <Header /> */}
       {/* <div>hdfh</div> */}
     </>

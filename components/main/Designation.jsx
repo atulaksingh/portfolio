@@ -13,7 +13,7 @@ function Designation() {
                 <h1 className="text-black text-center font-bold hover:underline cursor-pointer">
                   Zezo Software Pvt. Ltd.
                 </h1>
-                <div class="ml-2 text-xl text-center lap:text-left">
+                <div className="ml-2 text-xl text-center lap:text-left">
                   <h2>( 17 Oct 2022 - Present )</h2>
                 </div>
               </div>
@@ -24,9 +24,9 @@ function Designation() {
                 ></div>
                 <div
                   data-aos="fade-right"
-                  class="lap:ml-20 text-center lap:text-left text-black mb-5 aos-init aos-animate"
+                  className="lap:ml-20 text-center lap:text-left text-black mb-5 aos-init aos-animate"
                 >
-                  <div class="text-2xl font-bold">
+                  <div className="text-2xl font-bold">
                     <h1>Designation: Front End Web Developer</h1>
                   </div>
                   <div>

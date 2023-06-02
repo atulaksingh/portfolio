@@ -21,7 +21,7 @@ function Hero() {
           <div className="relative w-36 h-36 mx-auto">
             <Image
               alt="Atul Profile Picture"
-              srcset="https://res.cloudinary.com/dt0j68vdr/image/upload/v1670060657/Ellipse_20_rqfg0s.webp"
+              srcSet="https://res.cloudinary.com/dt0j68vdr/image/upload/v1670060657/Ellipse_20_rqfg0s.webp"
               // src="https://res.cloudinary.com/dt0j68vdr/image/upload/v1670060657/Ellipse_20_rqfg0s.webp"
               width="1920"
               height="1920"
@@ -83,12 +83,12 @@ function Hero() {
               <div className="flex items-center justify-center">
                 <img
                   alt="footer logo"
-                  srcset="https://res.cloudinary.com/dt0j68vdr/image/upload/v1670060657/Ellipse_20_rqfg0s.webp"
+                  srcSet="https://res.cloudinary.com/dt0j68vdr/image/upload/v1670060657/Ellipse_20_rqfg0s.webp"
                   width="1920"
                   height="1920"
                   decoding="async"
                   data-nimg="1"
-                  class="w-10 h-10 rounded-full cursor-pointer filter grayscale hover:grayscale-0 animate-bounce"
+                  className="w-10 h-10 rounded-full cursor-pointer filter grayscale hover:grayscale-0 animate-bounce"
                   loading="lazy"
                   style={{ color: "transparent" }}
                 />
