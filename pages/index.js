@@ -10,6 +10,7 @@ import Education from "@/components/main/Education";
 import PersonalSkills from "@/components/main/PersonalSkills";
 import Hero from "@/components/main/Hero";
 import Project from "@/components/main/Project";
+import Footer from "@/components/main/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -25,6 +26,7 @@ export default function Home() {
       <Project />
       <Designation />
       <Education />
+      <Footer />
       {/* <Header /> */}
       {/* <div>hdfh</div> */}
     </>

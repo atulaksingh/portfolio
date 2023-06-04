@@ -9,7 +9,8 @@ function Skills() {
       <Card
         title="Technicals Skills"
         content={<SkillsContent />}
-        border={{ backgroundColor: "black" }}
+        bgcolor="bg-[rgb(36,36,36)] text-white"
+        border={{ backgroundColor: "white" }}
       />
     </div>
   );

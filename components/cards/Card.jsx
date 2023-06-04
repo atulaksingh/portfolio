@@ -12,7 +12,7 @@ function Card(props) {
               </div>
               <div className="col-span-2 lap:flex mb-4">
                 <div
-                  className="lap:h-full lap:w-[7px] h-[3px]  lap:my-0 my-5"
+                  className="lap:h-full lap:w-[2px] h-[3px]  lap:my-0 my-5"
                   style={props.border}
                 ></div>
                 <div className="lap:ml-20 text-2xl lap:text-left text-center">

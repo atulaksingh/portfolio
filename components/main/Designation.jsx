@@ -5,12 +5,12 @@ import DesignationCard from "../cards/DesignationCard";
 function Designation() {
   return (
     <div>
-      <div className="">
+      <div className=" bg-[rgb(36,36,36)] text-white">
         <div className="container m-auto">
           <div id="about">
             <div className=" py-[100px] grid   lap:grid-cols-3 grid-cols-1 mx-10">
               <div className="col-span-1 m-auto text-4xl  ">
-                <h1 className="text-black text-center font-bold hover:underline cursor-pointer">
+                <h1 className=" text-center font-bold hover:underline cursor-pointer">
                   Zezo Software Pvt. Ltd.
                 </h1>
                 <div className="ml-2 text-xl text-center lap:text-left">
@@ -19,12 +19,12 @@ function Designation() {
               </div>
               <div className="col-span-2 lap:flex mb-4 ">
                 <div
-                  style={{ backgroundColor: "black", width: "3px" }}
-                  className="lap:h-full lap:w-[7px] h-[3px]  lap:my-0 my-5 border-black"
+                  style={{ backgroundColor: "white", width: "3px" }}
+                  className="lap:h-full lap:w-[7px] h-[3px]  lap:my-0 my-5 border-white"
                 ></div>
                 <div
                   data-aos="fade-right"
-                  className="lap:ml-20 text-center lap:text-left text-black mb-5 aos-init aos-animate"
+                  className="lap:ml-20 text-center lap:text-left text-white mb-5 aos-init aos-animate"
                 >
                   <div className="text-2xl font-bold">
                     <h1>Designation: Front End Web Developer</h1>

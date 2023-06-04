@@ -10,7 +10,8 @@ function PersonalSkills() {
         <Card
           title="Personal Skills"
           content={<PersonalContent />}
-          border={{ backgroundColor: "black" }}
+          bgcolor="bg-[rgb(36,36,36)] text-white"
+          border={{ backgroundColor: "white" }}
         />
       </div>
     </>
