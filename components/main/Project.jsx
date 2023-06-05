@@ -3,6 +3,21 @@ import React from "react";
 
 const projectdata = [
   {
+    img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685598933/screenshot_5_icdbyg.png",
+    link: "https://doct.vercel.app/",
+    name: "",
+  },
+  {
+    img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685599027/screenshot_6_a3ywsy.png",
+    link: "https://cliniq-cyan.vercel.app/",
+    name: "",
+  },
+  {
+    img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685597159/screenshot_2_1_zlxpio.png",
+    link: "https://gevent-chi.vercel.app/",
+    name: "",
+  },
+  {
     img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1676718480/livenews-main.vercel.app__2_x42sf1.png",
     link: "https://livenews-main.vercel.app/",
     name: "",
@@ -19,28 +34,8 @@ const projectdata = [
     name: "",
   },
   {
-    img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685597159/screenshot_2_1_zlxpio.png",
-    link: "https://gevent-chi.vercel.app/",
-    name: "",
-  },
-  {
-    img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685597589/screenshot_3_hjfpub.png",
-    link: "https://permoney.vercel.app/",
-    name: "",
-  },
-  {
     img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685597957/screenshot_4_yfk092.png",
     link: "https://mediatools.vercel.app/",
-    name: "",
-  },
-  {
-    img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685598933/screenshot_5_icdbyg.png",
-    link: "https://doct.vercel.app/",
-    name: "",
-  },
-  {
-    img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685599027/screenshot_6_a3ywsy.png",
-    link: "https://cliniq-cyan.vercel.app/",
     name: "",
   },
   {
