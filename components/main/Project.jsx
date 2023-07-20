@@ -6,42 +6,50 @@ const projectdata = [
     img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685598933/screenshot_5_icdbyg.png",
     link: "https://doct.vercel.app/",
     name: "",
+    logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1689865693/Screenshot_2023-07-20_203755_ccp3cv.png",
   },
   {
     img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685599027/screenshot_6_a3ywsy.png",
     link: "https://cliniq-cyan.vercel.app/",
     name: "",
+    logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1689866067/Screenshot_2023-07-20_204357_wqaequ.png",
   },
   {
     img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685597159/screenshot_2_1_zlxpio.png",
     link: "https://gevent-chi.vercel.app/",
     name: "",
+    logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1689866208/Screenshot_2023-07-20_204626_xkwzgr.png",
   },
   {
     img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1676718480/livenews-main.vercel.app__2_x42sf1.png",
     link: "https://livenews-main.vercel.app/",
     name: "",
+    logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1689866358/Screenshot_2023-07-20_204847_yqt8ub.png",
   },
   {
     img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1676717352/zezosoftrevamp-zeze121.vercel.app__1_nha1cl.png",
     link: "https://zezosoftrevamp-zeze121.vercel.app/",
     name: "",
+    logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1689866500/Screenshot_2023-07-20_205117_v0zudd.png",
   },
 
   {
     img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685547715/screenshot_1_f1uw2h.png",
     link: "https://newsportal-nine.vercel.app/",
     name: "",
+    logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1689866606/Screenshot_2023-07-20_205303_pbldoe.png",
   },
   {
     img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685597957/screenshot_4_yfk092.png",
     link: "https://mediatools.vercel.app/",
     name: "",
+    logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1689866755/Screenshot_2023-07-20_205540_nxul22.png",
   },
   {
     img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1685597589/screenshot_3_hjfpub.png",
     link: "https://permoney.vercel.app/",
     name: "",
+    logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1689866849/Screenshot_2023-07-20_205714_zsvkj2.png",
   },
 ];
 function Project() {

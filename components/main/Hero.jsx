@@ -18,16 +18,16 @@ function Hero() {
             <div className="absolute border rounded-full border-[#f7ab0a] opacity-20 lap:h-[600px] lap:w-[600px] h-[420px] w-[420px] mt-[205px] animate-pulse"></div>
             <div className="border rounded-full border-[#333333] lap:h-[750px] lap:w-[750px] h-[520px] w-[520px] mt-[205px] absolute"></div>
           </div>
-          <div className="relative w-36 h-36 mx-auto">
+          <div className="relative w-28 h-28 mx-auto">
             <Image
               alt="Atul Profile Picture"
               // srcSet="https://res.cloudinary.com/dt0j68vdr/image/upload/v1670060657/Ellipse_20_rqfg0s.webp"
-              src="https://res.cloudinary.com/dt0j68vdr/image/upload/v1670060657/Ellipse_20_rqfg0s.webp"
+              src="https://res.cloudinary.com/dt0j68vdr/image/upload/v1689864930/passPic-removebg-preview_-_Copy_wlbsec.png"
               width="1920"
               height="1920"
               decoding="async"
               data-nimg="1"
-              className="object-contain rounded-full "
+              className="object-contain rounded-full"
               loading="lazy"
               style={{ color: "transparent" }}
             />
