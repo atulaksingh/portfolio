@@ -63,25 +63,6 @@ function Hero() {
               </span>
             </h1>
           </div>
-          <div className="absolute bottom-0">
-            {/* <a href="/#hero"> */}
-            {/* <footer className="sticky w-full cursor-pointer bottom-10 sm:bottom-10 lap:bottom-5 mt-[12px]">
-              <div className="flex items-center justify-center">
-                <img
-                  alt="footer logo"
-                  srcSet="https://res.cloudinary.com/dt0j68vdr/image/upload/v1670060657/Ellipse_20_rqfg0s.webp"
-                  width="1920"
-                  height="1920"
-                  decoding="async"
-                  data-nimg="1"
-                  className="w-10 h-10 rounded-full cursor-pointer filter grayscale hover:grayscale-0 animate-bounce"
-                  loading="lazy"
-                  style={{ color: "transparent" }}
-                />
-              </div>
-            </footer> */}
-            {/* </a> */}
-          </div>
         </div>
       </>
     </div>

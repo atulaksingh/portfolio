@@ -17,18 +17,20 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <>
-      <Hero />
-      <About />
-      <Skills />
-      {/* <PersonalSkills /> */}
+      <div className="">
+        <Hero />
+        <About />
+        <Skills />
+        {/* <PersonalSkills /> */}
 
-      <PersonalSkills />
-      <Project />
-      <Designation />
-      <Education />
-      <Footer />
-      {/* <Header /> */}
-      {/* <div>hdfh</div> */}
+        <PersonalSkills />
+        <Project />
+        <Designation />
+        <Education />
+        <Footer />
+        {/* <Header /> */}
+        {/* <div>hdfh</div> */}
+      </div>
     </>
   );
 }

@@ -26,7 +26,7 @@ function IconCard(props) {
             <h2
               data-aos="fade-left"
               data-aos-duration="1000"
-              className="text-white lap:text-4xl text-2xl my-auto"
+              className="text-gray-300 lap:text-2xl text-xl my-auto"
             >
               {props.title}
             </h2>

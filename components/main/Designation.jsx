@@ -18,10 +18,11 @@ function Designation() {
                 </div>
               </div>
               <div className="col-span-2 lap:flex mb-4 ">
-                <div
+                {/* <div
                   style={{ backgroundColor: "white", width: "3px" }}
-                  className="lap:h-full lap:w-[7px] h-[3px]  lap:my-0 my-5 border-white"
-                ></div>
+                  className="lap:h-full lap:w-[7px] h-[3px]   lap:my-0 my-5 border-white"
+                ></div> */}
+                <div className="lap:h-full lap:w-[3px] h-[3px] my-5 lap:my-0 bg-white"></div>
                 <div
                   data-aos="fade-right"
                   className="lap:ml-20 text-center lap:text-left text-white mb-5 aos-init aos-animate"

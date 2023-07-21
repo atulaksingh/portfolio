@@ -11,7 +11,7 @@ function EduContent(props) {
                 <div className="text-4xl text-center lap:text-left font-semibold">
                   <h1>{props.class}</h1>
                 </div>
-                <div className="text-2xl text-center lap:text-left">
+                <div className="text-3xl text-center font-semibold lap:text-left">
                   <h2>{props.university}</h2>
                 </div>
               </div>
@@ -20,9 +20,9 @@ function EduContent(props) {
                 <div
                   data-aos="fade-right"
                   data-aos-duration="1000"
-                  className="lap:ml-20 text-white text-center lap:text-left aos-init aos-animate"
+                  className="lap:ml-20 text-gray-300 text-center lap:text-left aos-init aos-animate"
                 >
-                  <div className="text-3xl">
+                  <div className="text-xl">
                     <h1>{props.college}</h1>
                   </div>
                   <div>
@@ -35,7 +35,7 @@ function EduContent(props) {
                 data-aos-duration="1000"
                 className="col-span-1 text-2xl font-semibold text-white m-auto aos-init aos-animate"
               >
-                <h1>{props.per}</h1>
+                {/* <h1>{props.per}</h1> */}
               </div>
             </div>
           </div>
