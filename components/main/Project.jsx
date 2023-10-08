@@ -51,6 +51,18 @@ const projectdata = [
     name: "",
     logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1689866849/Screenshot_2023-07-20_205714_zsvkj2.png",
   },
+  {
+    img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1696776113/movieapp/qafx2lft0qletoi4mirw.png",
+    link: "https://food-recipe-eosin.vercel.app",
+    name: "",
+    logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1696776113/movieapp/qafx2lft0qletoi4mirw.png",
+  },
+  {
+    img: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1696776618/movieapp/gwr4fwhwjhnlufnatzaz.png",
+    link: "https://cargo-beige.vercel.app/",
+    name: "",
+    logo: "https://res.cloudinary.com/dt0j68vdr/image/upload/v1696776113/movieapp/qafx2lft0qletoi4mirw.png",
+  },
 ];
 function Project() {
   return (
